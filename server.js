@@ -40,7 +40,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 
 app
-.route("/posts")
+.route("https://blog-web-project-pied.vercel.app/posts")
 .get((req,res)=>{
   res.json(posts);
  });
