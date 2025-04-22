@@ -23,7 +23,7 @@ let posts = [
     date: "2023-08-05T14:30:00Z",
   },
   {
-    id: 3,
+    id: 4,
     title: "Sustainable Living: Tips for an Eco-Friendly Lifestyle",
     content:
       "Sustainability is more than just a buzzword; it's a way of life. As the effects of climate change become more pronounced, there's a growing realization about the need to live sustainably. From reducing waste and conserving energy to supporting eco-friendly products, there are numerous ways we can make our daily lives more environmentally friendly. This post will explore practical tips and habits that can make a significant difference.",
